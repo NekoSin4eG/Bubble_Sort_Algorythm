@@ -1,0 +1,6 @@
+C:\Users\NekoSin4eG\Documents\SharpDevelop Projects\Bubble_Sort_Algyrithm\Bubble_Sort_Algyrithm\bin\Debug\Bubble_Sort_Algyrithm.exe.config
+C:\Users\NekoSin4eG\Documents\SharpDevelop Projects\Bubble_Sort_Algyrithm\Bubble_Sort_Algyrithm\bin\Debug\Bubble_Sort_Algyrithm.exe
+C:\Users\NekoSin4eG\Documents\SharpDevelop Projects\Bubble_Sort_Algyrithm\Bubble_Sort_Algyrithm\bin\Debug\Bubble_Sort_Algyrithm.pdb
+C:\Users\NekoSin4eG\Documents\SharpDevelop Projects\Bubble_Sort_Algyrithm\Bubble_Sort_Algyrithm\obj\Debug\Bubble_Sort_Algyrithm.csprojResolveAssemblyReference.cache
+C:\Users\NekoSin4eG\Documents\SharpDevelop Projects\Bubble_Sort_Algyrithm\Bubble_Sort_Algyrithm\obj\Debug\Bubble_Sort_Algyrithm.exe
+C:\Users\NekoSin4eG\Documents\SharpDevelop Projects\Bubble_Sort_Algyrithm\Bubble_Sort_Algyrithm\obj\Debug\Bubble_Sort_Algyrithm.pdb
